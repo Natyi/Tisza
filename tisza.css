@@ -31,3 +31,11 @@
 }
    
    tr:nth-child(even) { background-color: lightgray}
+
+#jobb{ 
+    text-align: right;
+}
+
+#bal{
+    text-align: left;
+}
